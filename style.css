@@ -56,6 +56,7 @@ main{
     text-align: center;
     padding: 20px;
     width: 100%;
+    margin-left: 255px;
 }
 #content{
     text-align: justify;
